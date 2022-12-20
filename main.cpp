@@ -37,7 +37,7 @@ int main()
         setfillstyle(SOLID_FILL,WHITE); // initialization back ground color
         bar(0,0,630,470);  //  initializing background size or wide (lower width 630 and right length 470)
 
-        setfillstyle(SOLID_FILL,BLUE);  // initializing boarder color
+        setfillstyle(SOLID_FILL,BLACK);  // initializing boarder color
 
         bar(0,0,630,10); // upper boarder width,length
 
